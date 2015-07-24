@@ -16,3 +16,5 @@ node_modules
 
 *.ignore
 test/settings.json
+/.idea
+/idea
